@@ -57,6 +57,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ompatil-03/ompatil-03/output/snake.svg" alt="Snake animation" />
 
 ###
